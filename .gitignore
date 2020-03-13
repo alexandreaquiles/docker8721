@@ -28,4 +28,8 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### vagrant files
+.vagrant
 infra/.vagrant/
+
